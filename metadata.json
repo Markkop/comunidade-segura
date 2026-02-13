@@ -1,0 +1,7 @@
+{
+  "name": "Comunidade Segura",
+  "description": "Um aplicativo 'mobile-first' de segurança comunitária para Florianópolis, com alertas de pânico, rotas de fuga colaborativas e relatórios de incidentes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
